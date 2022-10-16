@@ -1,0 +1,15 @@
+.ToDoItem {
+  width: 80%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0 auto;
+  padding: 15px;
+  margin-top: 15px;
+}
+
+.ToDoItem button {
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+}
